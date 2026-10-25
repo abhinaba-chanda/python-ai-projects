@@ -4,6 +4,7 @@
 ![No API key](https://img.shields.io/badge/API%20key-not%20needed-success?style=for-the-badge)
 ![Offline](https://img.shields.io/badge/runs-offline-blueviolet?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+[![tests](https://github.com/abhinaba-chanda/python-ai-projects/actions/workflows/test.yml/badge.svg)](https://github.com/abhinaba-chanda/python-ai-projects/actions/workflows/test.yml)
 
 Beginner-friendly **AI projects in pure Python**. No libraries to install, no API keys, no internet needed.
 Each project shows the idea behind a real AI technique in a small file you can read in a few minutes.
